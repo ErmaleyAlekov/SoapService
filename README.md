@@ -1,1 +1,1 @@
-Простая реализация Soap сервиса с использованием Entity Framework и PostgreSQL
+Простая реализация Soap сервиса с использованием Entity Framework и Oracle SQL
